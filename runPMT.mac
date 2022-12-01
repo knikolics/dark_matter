@@ -1,0 +1,3857 @@
+
+
+/grdm/noVolumes  
+/grdm/selectVolume  pmt
+/grdm/applyICM false 
+/grdm/applyARM false 
+#/grdm/hlThreshold 1e-6 s 
+/grdm/analogueMC 1 
+
+
+
+
+/gps/source/intensity 1
+/gps/particle ion 
+/gps/ion 92 238 0 0  #U238
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -122.4  0  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt0
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 90 234 0 0  #Th234
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -122.4  0  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt0
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 91 234 0 0  #Pa234
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -122.4  0  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt0
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 82 214 0 0  #Pb214
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -122.4  0  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt0
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 83 214 0 0  #Bi214
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -122.4  0  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt0
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 82 210 0 0  #Pb210
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -122.4  0  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt0
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 90 230 0 0  #Th230
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -122.4  0  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt0
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 86 226 0 0  #Rn226
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -122.4  0  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt0
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 92 238 0 0  #U238
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.2  -106.002  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt1
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 90 234 0 0  #Th234
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.2  -106.002  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt1
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 91 234 0 0  #Pa234
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.2  -106.002  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt1
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 82 214 0 0  #Pb214
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.2  -106.002  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt1
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 83 214 0 0  #Bi214
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.2  -106.002  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt1
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 82 210 0 0  #Pb210
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.2  -106.002  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt1
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 90 230 0 0  #Th230
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.2  -106.002  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt1
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 86 226 0 0  #Rn226
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.2  -106.002  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt1
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 92 238 0 0  #U238
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.2  106.002  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt2
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 90 234 0 0  #Th234
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.2  106.002  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt2
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 91 234 0 0  #Pa234
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.2  106.002  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt2
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 82 214 0 0  #Pb214
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.2  106.002  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt2
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 83 214 0 0  #Bi214
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.2  106.002  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt2
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 82 210 0 0  #Pb210
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.2  106.002  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt2
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 90 230 0 0  #Th230
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.2  106.002  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt2
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 86 226 0 0  #Rn226
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.2  106.002  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt2
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 92 238 0 0  #U238
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 244.8  0  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt3
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 90 234 0 0  #Th234
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 244.8  0  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt3
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 91 234 0 0  #Pa234
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 244.8  0  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt3
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 82 214 0 0  #Pb214
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 244.8  0  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt3
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 83 214 0 0  #Bi214
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 244.8  0  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt3
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 82 210 0 0  #Pb210
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 244.8  0  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt3
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 90 230 0 0  #Th230
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 244.8  0  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt3
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 86 226 0 0  #Rn226
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 244.8  0  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt3
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 92 238 0 0  #U238
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -122.4  212.003  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt4
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 90 234 0 0  #Th234
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -122.4  212.003  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt4
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 91 234 0 0  #Pa234
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -122.4  212.003  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt4
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 82 214 0 0  #Pb214
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -122.4  212.003  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt4
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 83 214 0 0  #Bi214
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -122.4  212.003  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt4
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 82 210 0 0  #Pb210
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -122.4  212.003  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt4
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 90 230 0 0  #Th230
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -122.4  212.003  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt4
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 86 226 0 0  #Rn226
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -122.4  212.003  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt4
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 92 238 0 0  #U238
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -122.4  -212.003  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt5
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 90 234 0 0  #Th234
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -122.4  -212.003  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt5
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 91 234 0 0  #Pa234
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -122.4  -212.003  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt5
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 82 214 0 0  #Pb214
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -122.4  -212.003  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt5
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 83 214 0 0  #Bi214
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -122.4  -212.003  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt5
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 82 210 0 0  #Pb210
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -122.4  -212.003  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt5
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 90 230 0 0  #Th230
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -122.4  -212.003  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt5
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 86 226 0 0  #Rn226
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -122.4  -212.003  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt5
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 92 238 0 0  #U238
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.2367  -317.998  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt6
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 90 234 0 0  #Th234
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.2367  -317.998  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt6
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 91 234 0 0  #Pa234
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.2367  -317.998  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt6
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 82 214 0 0  #Pb214
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.2367  -317.998  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt6
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 83 214 0 0  #Bi214
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.2367  -317.998  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt6
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 82 210 0 0  #Pb210
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.2367  -317.998  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt6
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 90 230 0 0  #Th230
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.2367  -317.998  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt6
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 86 226 0 0  #Rn226
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.2367  -317.998  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt6
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 92 238 0 0  #U238
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 244.776  212.031  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt7
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 90 234 0 0  #Th234
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 244.776  212.031  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt7
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 91 234 0 0  #Pa234
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 244.776  212.031  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt7
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 82 214 0 0  #Pb214
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 244.776  212.031  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt7
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 83 214 0 0  #Bi214
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 244.776  212.031  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt7
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 82 210 0 0  #Pb210
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 244.776  212.031  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt7
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 90 230 0 0  #Th230
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 244.776  212.031  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt7
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 86 226 0 0  #Rn226
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 244.776  212.031  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt7
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 92 238 0 0  #U238
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -306.012  105.966  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt8
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 90 234 0 0  #Th234
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -306.012  105.966  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt8
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 91 234 0 0  #Pa234
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -306.012  105.966  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt8
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 82 214 0 0  #Pb214
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -306.012  105.966  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt8
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 83 214 0 0  #Bi214
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -306.012  105.966  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt8
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 82 210 0 0  #Pb210
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -306.012  105.966  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt8
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 90 230 0 0  #Th230
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -306.012  105.966  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt8
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 86 226 0 0  #Rn226
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -306.012  105.966  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt8
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 92 238 0 0  #U238
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -305.994  -106.02  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt9
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 90 234 0 0  #Th234
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -305.994  -106.02  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt9
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 91 234 0 0  #Pa234
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -305.994  -106.02  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt9
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 82 214 0 0  #Pb214
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -305.994  -106.02  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt9
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 83 214 0 0  #Bi214
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -305.994  -106.02  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt9
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 82 210 0 0  #Pb210
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -305.994  -106.02  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt9
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 90 230 0 0  #Th230
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -305.994  -106.02  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt9
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 86 226 0 0  #Rn226
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -305.994  -106.02  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt9
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 92 238 0 0  #U238
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 244.813  -211.989  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt10
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 90 234 0 0  #Th234
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 244.813  -211.989  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt10
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 91 234 0 0  #Pa234
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 244.813  -211.989  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt10
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 82 214 0 0  #Pb214
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 244.813  -211.989  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt10
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 83 214 0 0  #Bi214
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 244.813  -211.989  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt10
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 82 210 0 0  #Pb210
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 244.813  -211.989  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt10
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 90 230 0 0  #Th230
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 244.813  -211.989  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt10
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 86 226 0 0  #Rn226
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 244.813  -211.989  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt10
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 92 238 0 0  #U238
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.1812  318.008  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt11
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 90 234 0 0  #Th234
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.1812  318.008  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt11
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 91 234 0 0  #Pa234
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.1812  318.008  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt11
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 82 214 0 0  #Pb214
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.1812  318.008  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt11
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 83 214 0 0  #Bi214
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.1812  318.008  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt11
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 82 210 0 0  #Pb210
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.1812  318.008  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt11
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 90 230 0 0  #Th230
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.1812  318.008  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt11
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 86 226 0 0  #Rn226
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.1812  318.008  778.15  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt11
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 92 238 0 0  #U238
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -122.4  0  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt12
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 90 234 0 0  #Th234
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -122.4  0  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt12
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 91 234 0 0  #Pa234
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -122.4  0  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt12
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 82 214 0 0  #Pb214
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -122.4  0  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt12
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 83 214 0 0  #Bi214
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -122.4  0  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt12
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 82 210 0 0  #Pb210
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -122.4  0  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt12
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 90 230 0 0  #Th230
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -122.4  0  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt12
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 86 226 0 0  #Rn226
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -122.4  0  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt12
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 92 238 0 0  #U238
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.2  -106.002  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt13
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 90 234 0 0  #Th234
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.2  -106.002  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt13
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 91 234 0 0  #Pa234
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.2  -106.002  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt13
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 82 214 0 0  #Pb214
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.2  -106.002  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt13
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 83 214 0 0  #Bi214
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.2  -106.002  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt13
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 82 210 0 0  #Pb210
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.2  -106.002  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt13
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 90 230 0 0  #Th230
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.2  -106.002  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt13
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 86 226 0 0  #Rn226
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.2  -106.002  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt13
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 92 238 0 0  #U238
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.2  106.002  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt14
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 90 234 0 0  #Th234
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.2  106.002  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt14
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 91 234 0 0  #Pa234
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.2  106.002  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt14
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 82 214 0 0  #Pb214
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.2  106.002  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt14
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 83 214 0 0  #Bi214
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.2  106.002  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt14
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 82 210 0 0  #Pb210
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.2  106.002  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt14
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 90 230 0 0  #Th230
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.2  106.002  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt14
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 86 226 0 0  #Rn226
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.2  106.002  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt14
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 92 238 0 0  #U238
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 244.8  0  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt15
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 90 234 0 0  #Th234
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 244.8  0  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt15
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 91 234 0 0  #Pa234
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 244.8  0  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt15
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 82 214 0 0  #Pb214
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 244.8  0  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt15
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 83 214 0 0  #Bi214
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 244.8  0  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt15
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 82 210 0 0  #Pb210
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 244.8  0  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt15
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 90 230 0 0  #Th230
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 244.8  0  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt15
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 86 226 0 0  #Rn226
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 244.8  0  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt15
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 92 238 0 0  #U238
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -122.4  212.003  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt16
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 90 234 0 0  #Th234
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -122.4  212.003  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt16
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 91 234 0 0  #Pa234
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -122.4  212.003  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt16
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 82 214 0 0  #Pb214
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -122.4  212.003  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt16
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 83 214 0 0  #Bi214
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -122.4  212.003  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt16
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 82 210 0 0  #Pb210
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -122.4  212.003  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt16
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 90 230 0 0  #Th230
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -122.4  212.003  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt16
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 86 226 0 0  #Rn226
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -122.4  212.003  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt16
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 92 238 0 0  #U238
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -122.4  -212.003  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt17
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 90 234 0 0  #Th234
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -122.4  -212.003  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt17
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 91 234 0 0  #Pa234
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -122.4  -212.003  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt17
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 82 214 0 0  #Pb214
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -122.4  -212.003  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt17
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 83 214 0 0  #Bi214
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -122.4  -212.003  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt17
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 82 210 0 0  #Pb210
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -122.4  -212.003  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt17
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 90 230 0 0  #Th230
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -122.4  -212.003  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt17
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 86 226 0 0  #Rn226
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -122.4  -212.003  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt17
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 92 238 0 0  #U238
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.2367  -317.998  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt18
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 90 234 0 0  #Th234
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.2367  -317.998  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt18
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 91 234 0 0  #Pa234
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.2367  -317.998  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt18
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 82 214 0 0  #Pb214
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.2367  -317.998  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt18
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 83 214 0 0  #Bi214
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.2367  -317.998  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt18
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 82 210 0 0  #Pb210
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.2367  -317.998  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt18
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 90 230 0 0  #Th230
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.2367  -317.998  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt18
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 86 226 0 0  #Rn226
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.2367  -317.998  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt18
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 92 238 0 0  #U238
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 244.776  212.031  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt19
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 90 234 0 0  #Th234
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 244.776  212.031  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt19
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 91 234 0 0  #Pa234
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 244.776  212.031  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt19
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 82 214 0 0  #Pb214
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 244.776  212.031  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt19
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 83 214 0 0  #Bi214
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 244.776  212.031  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt19
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 82 210 0 0  #Pb210
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 244.776  212.031  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt19
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 90 230 0 0  #Th230
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 244.776  212.031  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt19
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 86 226 0 0  #Rn226
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 244.776  212.031  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt19
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 92 238 0 0  #U238
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -306.012  105.966  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt20
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 90 234 0 0  #Th234
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -306.012  105.966  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt20
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 91 234 0 0  #Pa234
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -306.012  105.966  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt20
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 82 214 0 0  #Pb214
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -306.012  105.966  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt20
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 83 214 0 0  #Bi214
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -306.012  105.966  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt20
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 82 210 0 0  #Pb210
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -306.012  105.966  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt20
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 90 230 0 0  #Th230
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -306.012  105.966  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt20
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 86 226 0 0  #Rn226
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -306.012  105.966  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt20
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 92 238 0 0  #U238
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -305.994  -106.02  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt21
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 90 234 0 0  #Th234
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -305.994  -106.02  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt21
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 91 234 0 0  #Pa234
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -305.994  -106.02  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt21
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 82 214 0 0  #Pb214
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -305.994  -106.02  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt21
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 83 214 0 0  #Bi214
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -305.994  -106.02  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt21
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 82 210 0 0  #Pb210
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -305.994  -106.02  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt21
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 90 230 0 0  #Th230
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -305.994  -106.02  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt21
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 86 226 0 0  #Rn226
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre -305.994  -106.02  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt21
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 92 238 0 0  #U238
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 244.813  -211.989  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt22
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 90 234 0 0  #Th234
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 244.813  -211.989  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt22
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 91 234 0 0  #Pa234
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 244.813  -211.989  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt22
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 82 214 0 0  #Pb214
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 244.813  -211.989  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt22
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 83 214 0 0  #Bi214
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 244.813  -211.989  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt22
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 82 210 0 0  #Pb210
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 244.813  -211.989  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt22
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 90 230 0 0  #Th230
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 244.813  -211.989  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt22
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 86 226 0 0  #Rn226
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 244.813  -211.989  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt22
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 92 238 0 0  #U238
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.1812  318.008  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt23
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 90 234 0 0  #Th234
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.1812  318.008  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt23
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 91 234 0 0  #Pa234
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.1812  318.008  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt23
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 82 214 0 0  #Pb214
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.1812  318.008  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt23
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 83 214 0 0  #Bi214
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.1812  318.008  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt23
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 82 210 0 0  #Pb210
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.1812  318.008  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt23
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 90 230 0 0  #Th230
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.1812  318.008  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt23
+
+
+
+
+
+/gps/source/add 1
+/gps/particle ion 
+/gps/ion 86 226 0 0  #Rn226
+/gps/ang/type iso 
+/gps/energy 0 keV 
+
+
+
+
+/gps/pos/type Volume 
+/gps/pos/shape Cylinder 
+/gps/pos/centre 61.1812  318.008  -765.85  mm 
+/gps/pos/halfz 111 mm 
+/gps/pos/radius 104.352 mm 
+/gps/pos/confine  pmt23
+
+
+
+
+
+/gps/number 1 
+/run/beamOn 200000
+
+
+
